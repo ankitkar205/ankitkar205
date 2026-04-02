@@ -73,10 +73,10 @@ I am a passionate developer and hardware enthusiast focused on building innovati
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkar205&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="195" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkar205&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="195" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitkar205&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" height="195" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkar205&theme=tokyonight&hide_border=true&layout=compact" height="195" alt="Top Languages"/>
   <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ankitkar205&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkar205&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </div>
 
 <br>
